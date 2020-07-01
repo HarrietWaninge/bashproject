@@ -359,3 +359,61 @@ mv CodeAlly.svg client/assets/icons/
 __vsc_prompt_cmd_original
 find
 mv CodeRoad.svg client/assets/icons/
+mv freeCodeCamp.svg client/assets/icons/
+find
+find
+cd ..
+ls --color=auto
+cd website/
+find
+find
+clear
+find
+git commit
+git add .
+git commit -m "before reset"
+cd /workspace/project/website/
+find
+find
+find
+find
+find
+find
+find
+ls --color=auto -a
+cd ..
+ls --color=auto
+cd website/
+git remote set-url origin https://github.com/HarrietWaninge/bashproject.git
+git branch -M main
+git push -u origin main
+find
+find
+find
+ls --color=auto
+find
+mv freeCodeCamp.svg client/assets/icons/
+find
+rm CodeAlly.svg
+rm CodeRoad.svg
+ls --color=auto
+find
+find
+git add .
+git commit -m "wwhatgit commit -m "before reset" kd dkjf exit "
+git push
+find
+find
+find
+cd ..
+ls --color=auto
+cd freeCodeCamp/
+npm run programmatic-test
+cd ..
+ls --color=auto
+cd website/
+ls --color=auto
+find
+rm CodeAlly.svg
+rm CodeRoad.svg
+mv freeCodeCamp.svg client/assets/icons
