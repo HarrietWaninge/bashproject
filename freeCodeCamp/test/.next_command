@@ -465,3 +465,4 @@ __vsc_prompt_cmd_original
 rm --help
 rmdir fonts/ -r
 rm fonts/ -r
+ls --color=auto
