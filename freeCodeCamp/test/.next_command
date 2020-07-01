@@ -351,3 +351,4 @@ clear
 mkdir images
 touch images/background.jpg
 rm images/background.jpg
+rmdir images
