@@ -356,3 +356,5 @@ ls --color=auto
 find
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons/
+__vsc_prompt_cmd_original
+find
