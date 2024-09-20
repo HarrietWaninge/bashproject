@@ -73,3 +73,4 @@ pwd
 cd ...
 cd ..
 ls --color=auto
+more package.json
