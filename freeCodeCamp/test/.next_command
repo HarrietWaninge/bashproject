@@ -342,3 +342,12 @@ find -name footer.jpeg
 mv images/footer.jpeg client/assets/images/
 find
 rmdir images/
+rm images/background.jpg
+rmdir images/
+rm images/background.jpg
+ls --color=auto
+rm images/background.jpg
+clear
+mkdir images
+touch images/background.jpg
+rm images/background.jpg
