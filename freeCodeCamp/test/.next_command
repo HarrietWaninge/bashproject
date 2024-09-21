@@ -324,3 +324,7 @@ find
 mv client/assets/images/background.jpg images
 find
 touch ./client/assets/images/background.jpg
+cd ..
+cd website/
+cd client/assets/images/
+cd ../../..
