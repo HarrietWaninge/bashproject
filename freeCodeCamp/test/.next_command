@@ -200,3 +200,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 mv roboto.woff fonts/
 find
+mv lato.ttf fonts/
