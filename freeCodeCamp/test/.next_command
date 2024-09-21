@@ -121,3 +121,48 @@ touch lato.font
 touch menlo.font
 ls --color=auto
 touch CodeAlly.svg
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd test
+ls --color=auto
+cd ../..
+ls --color=auto
+freeCodeCamp
+pwd
+ls --color=auto
+cd freeCodeCamp/
+ls --color=auto
+ls --color=auto -a
+cd test
+ls --color=auto
+cd ../..
+pwd
+cd ..
+ls --color=auto
+ls --color=auto -a
+pwd
+ls --color=auto
+cd project/
+ls --color=auto
+cd freeCodeCamp/
+cd ..
+clear
+mkdir website
+cd website/
+touch index.html
+touch styles.css
+touch index.js
+touch .gitignore
+ls --color=auto -a
+touch background.jpg
+touch header.png
+touch footer.jpeg
+touch roboto.font
+touch lato.font
+touch menlo.font
+ls --color=auto -a
+clear
+touch CodeAlly.svg
+touch CodeRoud.svg
+touch CodeRoad.svg
