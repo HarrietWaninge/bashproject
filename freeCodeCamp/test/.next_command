@@ -297,3 +297,30 @@ mkdir assets
 cd assets
 mkdir images
 cd images
+cp ../background.jpg
+cp ../background.jpg .
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+find
+cd ..
+ls --color=auto
+find background.jpg
+cd ..
+ls --color=auto
+find background.jpg
+cd wibsite
+cd website
+ls --color=auto
+cd images
+ls --color=auto
+ls --color=auto
+cd ..
+ls --color=auto
+find
+mv images/background.jpg client/assets/images/
+find
+mv client/assets/images/background.jpg images
+find
+touch ./client/assets/images/background.jpg
