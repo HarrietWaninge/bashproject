@@ -252,3 +252,6 @@ ls --color=auto
 find website
 cd website
 find
+cd ..
+ls --color=auto -a
+git add .
